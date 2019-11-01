@@ -9,3 +9,4 @@ An asteroids "clone" that is inspired by this blog series. [BYTEPATH](https://gi
 # Tips and Tricks and Lessons Learned
 - Object Oriented Programming, or OOP, can be very fun and frustrating to play with. I think most people would assume that games are easy to make, but to create one from scratch is a fun challenge.
 - Time manipulation commands are useful for debugging. You can build them into your game simply by multiplying `dt` by a time factor and assigning them to a key.
+- Time Management is even more important
