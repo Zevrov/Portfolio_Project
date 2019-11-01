@@ -1,4 +1,5 @@
 # Welcome to my portfolio project for Holberton School New Haven.
+- To download click the link to the repository.
 
 # Who am I?
 Wolf Hopkins, a full stack software engineer and graduate from Holberton School New Haven.
