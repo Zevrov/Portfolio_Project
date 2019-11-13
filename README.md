@@ -5,7 +5,7 @@
 Wolf Hopkins, a full stack software engineer and graduate from Holberton School New Haven.
 
 # What is it?
-An asteroids "clone" that is inspired by this blog series. [BYTEPATH](https://github.com/adnzzzzZ/blog/issues/30). The series is targeted at beginner game developers and covers the basics of Lua + Love2D.
+An asteroids "clone", or a game that is heavily inspired by the classic arcade game.
 
 # Features
 - 360 degree movement
