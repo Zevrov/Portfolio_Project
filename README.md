@@ -4,6 +4,9 @@
 # Who am I?
 Wolf Hopkins, a full stack software engineer and graduate from Holberton School New Haven.
 
+# How to Run
+First install Love2d, then simply drag and drop the game folder into the Love2D icon.
+
 # What is it?
 An asteroids "clone", or a game that is heavily inspired by the classic arcade game.
 
