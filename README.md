@@ -1,4 +1,4 @@
-# Welcome to my portfolio project for Holberton School New Haven.
+# Welcome to my first portfolio project. This is an early access game not yet complete, but it is playable.
 - To download click the link to the repository.
 
 # Who am I?
