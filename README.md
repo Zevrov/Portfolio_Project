@@ -8,7 +8,7 @@ Wolf Hopkins, a full stack software engineer and graduate from Holberton School 
 First install Love2d, then simply drag and drop the game folder into the Love2D icon.
 
 # What is it?
-An asteroids "clone", or a game that is heavily inspired by the classic arcade game.
+An asteroids "clone", or a game that is heavily inspired by the classic arcade game. Built following this great starter guide here: https://github.com/a327ex/blog/issues/30
 
 # Features
 - 360 degree movement
